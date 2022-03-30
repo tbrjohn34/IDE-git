@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+# 可以手动添加文件，也可以右键想添加的文件夹，选择Add to gitignore file
+# !是不隐藏
+/.idea/
+git-demo.iml

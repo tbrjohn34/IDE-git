@@ -15,5 +15,6 @@ public class AppTest
  @Test
     public void testabc(){
      System.out.println("git推送远程测试！");
+     System.out.println("分支操作。。。。");
  }
 }
